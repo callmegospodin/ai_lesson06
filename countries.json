@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Україна",
+    "capital": "Київ",
+    "language": "українська",
+    "currency": "гривня"
+  },
+  {
+    "country": "Франція",
+    "capital": "Париж",
+    "language": "французька",
+    "currency": "євро"
+  },
+  {
+    "country": "Японія",
+    "capital": "Токіо",
+    "language": "японська",
+    "currency": "єна"
+  },
+  {
+    "country": "Бразилія",
+    "capital": "Бразіліа",
+    "language": "португальська",
+    "currency": "реал"
+  },
+  {
+    "country": "Канада",
+    "capital": "Оттава",
+    "language": "англійська, французька",
+    "currency": "канадський долар"
+  }
+]
